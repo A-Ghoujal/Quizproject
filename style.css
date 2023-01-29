@@ -23,7 +23,7 @@ body{
         background-position: 3000px 3000px ;
     }
 }
-.rocket-background{
+/* .rocket-background{
     position: absolute;
     display: grid;
     place-items: center;
@@ -34,7 +34,7 @@ body{
 
 .rocket-background img{
     width: 40%;
-}
+} */
 
 .quiz-container {
  background-color: aliceblue;
@@ -44,7 +44,7 @@ body{
  width: 900px;
  overflow: hidden;
  opacity: 0.8;
- margin-bottom: 55rem;
+ /* margin-bottom: 55rem; */
  
 }
 
@@ -97,8 +97,8 @@ ul{
 
 
     }
-    .rocket-background img{
+    /* .rocket-background img{
         width: 80%;
-    }
+    } */
 
  }
